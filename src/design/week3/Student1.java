@@ -12,6 +12,7 @@ package design.week3;
 public class Student1 {
  private int ID;
  private String firstName;
+ private int MaxCourse;
 
     public int getID() {
         return ID;
