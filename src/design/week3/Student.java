@@ -14,6 +14,7 @@ public class Student {
         Student1 s1=new Student1();
         s1.setFirstName("John");
         s1.setID(4);
+        System.out.println("Updated");
     }
     
 }
