@@ -7,7 +7,8 @@ package design.week3;
 
 /**
  *
- * @author Savan
+ * @author Siddharth
+ * 
  */
 public class Student {
     public static void main(String[] args) {
